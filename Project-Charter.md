@@ -68,7 +68,7 @@
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>shivakrishnamohan@gmail.com</td> 
   </tr> 
  <tr>
@@ -77,7 +77,7 @@
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>naishadamraghu@gmail.com</td>
 </tr>
   <tr>
@@ -86,7 +86,7 @@
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>anshithavelagapudi@gmail.com</td> 
   </tr> 
 <tr>
@@ -95,32 +95,28 @@
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>priyankab407@gmail.com</td> 
   </tr>
 </table>
 <br> 
 <h3>Milestones</h3><hr />
-<br>1. 
-Project Charter,
+<br>1. Project Charter,
 Contribution of team members,
 Artifacts
 <br>
-2.
-Requirements,
+2. Requirements,
 Integration,
 Scope,
 Schedule/Time,
 Cost Management
 <br>
-3.
-Quality,
+3. Quality,
 Resource,
 Communications,
 Risk Management
 <br>
-4.
-Procurement management,
+4. Procurement management,
 Stakeholder management
 <br>
  <h3>Schedule:</h3>
